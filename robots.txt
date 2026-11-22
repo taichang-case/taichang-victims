@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taichang-case.github.io/taichang-victims/sitemap.xml
